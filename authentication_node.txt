@@ -1,0 +1,5 @@
+Authentication:
+ng generate guard authenticate
+ng g c components/login|register|home|changePassword|download
+
+
